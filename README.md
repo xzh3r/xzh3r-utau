@@ -8,3 +8,5 @@ You have to download a few other resamplers, specifically fresamp, bkh01, and TI
 https://utaforum.net/threads/utau-resampler-directory.538/
 
 Feel free to use these, however please link back to here if you do so.
+
+Chromatic Scales newly added! Same guidelines apply to them as well.
